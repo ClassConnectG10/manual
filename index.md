@@ -14,8 +14,8 @@ Para utilizar ClassConnect, existen diferentes interfaces según el rol del usua
 
 ### Aplicación Mobil
 
-Diseñada tanto para el uso de alumnos como de profesores, la aplicación móvil permite crear una cuenta y tomar roles de profesor o alumno según sea necesario. Para conocer exactamente cómo utilizar la aplicación, puede consultar la [Guía del Usuario](user/index.md) donde se detallan todas las funcionalidades disponibles.
+Diseñada tanto para el uso de alumnos como de profesores, la aplicación móvil permite crear una cuenta y tomar roles de profesor o alumno según sea necesario. Para conocer exactamente cómo utilizar la aplicación, puede consultar la [Guía del Usuario](user/) donde se detallan todas las funcionalidades disponibles.
 
 ### Administrador Web
 
-Para los administradores, la plataforma ofrece una interfaz web dedicada. Esta sección está destinada a aquellos que gestionan la plataforma y necesitan acceder a funciones avanzadas. Para más detalles sobre cómo utilizar esta interfaz, consulte la [Guía del Administrador](admin/index.md).
+Para los administradores, la plataforma ofrece una interfaz web dedicada. Esta sección está destinada a aquellos que gestionan la plataforma y necesitan acceder a funciones avanzadas. Para más detalles sobre cómo utilizar esta interfaz, consulte la [Guía del Administrador](admin/).
