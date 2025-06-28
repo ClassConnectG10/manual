@@ -20,6 +20,6 @@ Este formulario requiere que se ingresen los siguientes datos:
 
 Una vez que se haya completado el formulario, el usuario puede hacer clic en el botón "Registrar Administrador" para enviar la solicitud de registro. Si el registro es exitoso, se mostrará un mensaje de confirmación y el nuevo administrador podrá iniciar sesión con las credenciales generadas.
 
-![Pantalla de Registro de Administrador](../assets/admin/register_admins.jpeg)
+![Pantalla de Registro de Administrador]({{ site.baseurl }}/assets/admin/register_admins.jpeg)
 
 Si el registro falla, se mostrará un mensaje de error indicando el motivo del fallo, como por ejemplo si el correo electrónico ya está en uso o si las contraseñas no coinciden.

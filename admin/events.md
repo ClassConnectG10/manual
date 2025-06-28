@@ -25,4 +25,4 @@ Todos estos datos se visualizarán en una tabla que permite:
 - **Paginación**: Si hay muchos eventos, puedes navegar a través de ellos utilizando la paginación donde el número de eventos por página se puede configurar.
 - **Exportar**: Puedes descargar el historial de eventos en formato CSV para análisis externos o respaldos.
 
-![Pantalla de Eventos del Panel de Administración](../assets/admin/events.jpeg)
+![Pantalla de Eventos del Panel de Administración]({{ site.baseurl }}/assets/admin/events.jpeg)

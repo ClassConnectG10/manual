@@ -18,7 +18,7 @@ Para podes acceder a las funcionalidades del panel de administración, es necesa
 
 Ahora, si ya tienes un usuario de administrador, puedes iniciar sesión con tus credenciales ingresando el correo electrónico y la contraseña en el formulario de inicio de sesión.
 
-![Pantalla de Inicio de Sesión del Administrador](../assets/admin/login.jpeg)
+![Pantalla de Inicio de Sesión del Administrador]({{ site.baseurl }}/assets/admin/login.jpeg)
 
 ## Funcionalidades del Panel de Administración
 
@@ -30,6 +30,6 @@ Una vez que hayas iniciado sesión, tendrás acceso a las siguientes funcionalid
 
 Todas estas funciononalidades están disponibles en el menú de navegación del panel de administración junto con una opción para volver al menu principal y otra para cerrar sesión.
 
-![Pantalla principal del Panel de Administración](../assets/admin/home.jpeg)
+![Pantalla principal del Panel de Administración]({{ site.baseurl }}/assets/admin/home.jpeg)
 
-![Menú de Navegación del Panel de Administración](../assets/admin/menu.jpeg)
+![Menú de Navegación del Panel de Administración]({{ site.baseurl }}/assets/admin/menu.jpeg)
