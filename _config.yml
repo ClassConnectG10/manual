@@ -3,14 +3,13 @@ description: Documentación para usuarios y administradores de ClassConnect.
 theme: just-the-docs
 
 url: https://classconnectg10.github.io/manual/
+baseurl: "/manual"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 favicon: "/assets/favicon.ico"
 
-search:
-  placeholder: "Buscar en la documentación..."
+permalink: pretty
 
-toc:
-  heading: "Índice"
+
