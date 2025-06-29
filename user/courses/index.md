@@ -13,4 +13,4 @@ parent: Guía del Usuario
 4. **Detalles del curso**: al presionarlo, se accede a una pantalla con información adicional del curso (ver sección de [Detalles del curso](details)).
 5. **Marcar como favorito**: permite marcar (o desmarcar) el curso como favorito. Los cursos favoritos se pueden ver en la pantalla principal de cursos filtrando con el botón correspondiente.
 
-![Vista principal del curso]({{ site.baseurl }}/assets/users/courses/course_view.png)
+![Vista principal del curso]({{site.baseurl}}/assets/users/courses/course_view.png)

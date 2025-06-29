@@ -22,10 +22,10 @@ Todos estos datos se visualizarán en una tabla que permite:
 - **Exportar**: Puedes descargar la lista de usuarios en formato CSV para análisis externos o respaldos.
 - **Mostrar/Ocultar columnas**: Puedes personalizar qué columnas visualizar según tus necesidades.
 
-![Lista de Usuarios]({{ site.baseurl }}/assets/admin/users_list.jpeg)
+![Lista de Usuarios]({{site.baseurl}}/assets/admin/users_list.jpeg)
 
 ## Bloquear o desbloquear usuarios
 
 El administrador al presionar sobre la fila correspondiente a un usuario, podrá ver los detalles de forma aislada y tendrá la posibilidad de bloquear o desbloquear al usuario según su estado actual.
 
-![Detalles de Usuario]({{ site.baseurl }}/assets/admin/users_details.jpeg)
+![Detalles de Usuario]({{site.baseurl}}/assets/admin/users_details.jpeg)
