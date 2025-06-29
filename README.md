@@ -52,12 +52,22 @@ Los siguientes elementos están marcados con comentarios TODO en la documentaci�
 - Vista de actividades para estudiantes y docentes
 - Interfaz de corrección automática con IA
 - Barra de secciones del curso
+- **NUEVO**: Pantalla de corrección con IA y modal
+- **NUEVO**: Modal de corrección completada
+- **NUEVO**: Vista de entrega y calificación para alumnos
 
 ### Funcionalidades Incompletas
 
 - Sistema completo de exámenes (en desarrollo)
-- Corrección automática de tareas con IA (documentación detallada)
+- **AMPLIADO**: Corrección automática de tareas con IA (documentación completada con detalles del proceso)
 - Sistema de notas y reseñas de alumnos
+
+### Contenido Agregado desde la Rama tasks-and-exams
+
+- ✅ **Corrección automática con IA**: Proceso completo documentado
+- ✅ **Visualización para alumnos**: Nueva sección sobre cómo los estudiantes ven sus entregas
+- ✅ **Condiciones para IA**: Requisitos específicos para usar corrección automática
+- ✅ **Notificaciones**: Integración del sistema de notificaciones para corrección IA
 
 ### Enlaces a Verificar
 

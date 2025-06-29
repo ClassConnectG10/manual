@@ -23,9 +23,10 @@ Para crear una tarea, el docente debe seguir estos pasos:
    - **Fecha límite**: Fecha y hora límite para la entrega de la tarea
    - **Módulo**: El módulo al que pertenece la tarea
    - **Archivo de consigna** (opcional): Archivo que contiene la consigna de la tarea, que puede ser un PDF, Word, etc.
-5. Presionar el botón **Crear tarea**
 
 <!-- TODO: Agregar imagen de la pantalla de creación de una tarea -->
+
+5. Presionar el botón **Crear tarea**
 
 Una vez hecho esto, la tarea estará creada pero **no publicada**.
 
@@ -73,8 +74,27 @@ Una vez que se complete la corrección, el docente debe presionar el botón **Co
 
 ## Corrección Automática de Tareas con IA
 
-ClassConnect ofrece la funcionalidad de corrección automática de tareas utilizando inteligencia artificial, lo que permite a los docentes obtener sugerencias de calificación y comentarios automáticamente generados para agilizar el proceso de corrección.
+Las tareas también pueden ser corregidas automáticamente utilizando inteligencia artificial. Para ello, en la vista de información de la entrega, el docente debe presionar el botón **Corregir con IA** (en la parte superior derecha de la pantalla) y luego **Aceptar**.
 
-<!-- TODO: Agregar información detallada sobre cómo funciona la corrección automática con IA -->
-<!-- TODO: Agregar imágenes de la interfaz de corrección automática -->
-<!-- TODO: Explicar el proceso paso a paso para usar la IA en correcciones -->
+<!-- TODO: Agregar imagen de la pantalla de corrección de una entrega, mostrando el botón de Corregir con IA y el modal -->
+
+ > **Nota**: Para que la corrección automática esté disponible, se deben cumplir dos condiciones:
+>
+> 1. La tarea debe tener un archivo de consigna cargado
+> 2. Tanto el archivo de consigna como el archivo de entrega del alumno deben ser archivos PDF, TXT, DOC o DOCX
+
+Esto iniciará el proceso de corrección automática, que puede tardar varios segundos. Una vez finalizado, le llegará una notificación al docente para avisarle que la corrección ha sido completada. Si el docente abandonó la pantalla de corrección mientras se corregía con IA, al volver debe presionar el botón **Corregir con IA** nuevamente para obtener los resultados.
+
+<!-- TODO: Agregar imagen de la pantalla de corrección de una entrega, mostrando el modal que se muestra cuando termina la corrección con IA -->
+
+Si el docente presiona **Aceptar**, se mostrará la nota y comentarios generados por la IA. Desde ahí, el docente puede decidir si acepta la corrección automática en ese estado o si prefiere corregir manualmente la entrega (para este caso debe presionar el botón **Descartar**). De forma adicional, el docente puede volver a corregir la entrega con IA en cualquier momento, presionando nuevamente el botón **Corregir con IA**.
+
+<!-- TODO: Agregar imagen del modal de corrección completada -->
+
+Llegado este punto, la corrección sigue de la misma forma que una corrección manual. Se muestra un cartel que indica "Corrección realizada con IA", que desaparece si el usuario modifica la calificación o los comentarios.
+
+## Visualización de Entrega y Calificación como Alumno
+
+El alumno de la plataforma puede ver su entrega presionando la tarea desde la sección **Actividades** del curso. Al entrar a la vista de información de la tarea, podrá ver los detalles de la misma, así como su entrega y calificación (si ya ha sido corregida).
+
+<!-- TODO: Agregar imagen de la pantalla de información de una tarea (vista alumno), mostrando la entrega y calificación -->
