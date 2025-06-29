@@ -1,19 +1,35 @@
 ---
-title: Detalles del curso
+title: Detalles del Curso
 nav_order: 4
 layout: default
 parent: Cursos
 grand_parent: Guía del Usuario
 ---
 
-# Detalles del curso
+# Detalles del Curso
 
-Aquí se muestra la información compelta del curso, incluyendo el docente titular, el nombre del curso, descripción, fecha de inicio y finalización, nivel, categoría, modalidad y cursos requeridos. También se puede ver la cantidad de alumnos inscriptos y el cupo máximo de inscripción.
+En esta pantalla se muestra la información completa del curso, incluyendo:
 
-![Vista de detalles del curso]({{site.baseurl}}/assets/user/courses/course_details.png)
+- **Docente titular**: Nombre del profesor responsable del curso
+- **Nombre del curso**: Título oficial del curso
+- **Descripción**: Información detallada sobre el contenido y objetivos
+- **Fechas**: Fecha de inicio y finalización del curso
+- **Nivel**: Nivel académico requerido (principiante, intermedio, avanzado)
+- **Categoría**: Área temática del curso
+- **Modalidad**: Formato del curso (presencial, virtual, híbrido)
+- **Cursos requeridos**: Prerrequisitos necesarios para inscribirse
+- **Inscripciones**: Cantidad de alumnos inscriptos y cupo máximo disponible
 
-## Acciones disponibles del docente
+![Vista de Detalles del Curso]({{site.baseurl}}/assets/user/courses/course_details.png)
 
-Desde esta pantalla el docente del curso puede presionar el botón de **Editar curso**, ubicado en la parte superior derecha, para editar los detalles del curso o incluso eliminarlo.
+## Acciones Disponibles para el Docente
 
-Además, desde la parte inferior de esta vista se puede **iniciar** o **finalizar** el curso según corresponda. Para más información revisar la sección de [Ciclo de vida del curso](../course_lifecycle/).
+Desde esta pantalla, el docente del curso puede realizar las siguientes acciones:
+
+### Editar Curso
+
+Presionar el botón **Editar curso**, ubicado en la parte superior derecha, para modificar los detalles del curso o incluso eliminarlo si es necesario.
+
+### Gestión del Estado del Curso
+
+Desde la parte inferior de esta vista se puede **iniciar** o **finalizar** el curso según corresponda. Para más información, revise la sección de [**Ciclo de vida del curso**](course_lifecycle).

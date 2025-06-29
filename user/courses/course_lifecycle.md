@@ -1,19 +1,58 @@
 ---
-title: Ciclo de vida de un curso
+title: Ciclo de Vida de un Curso
 nav_order: 5
 layout: default
 parent: Cursos
 grand_parent: Guía del Usuario
 ---
 
-# Ciclo de vida de un curso
+# Ciclo de Vida de un Curso
 
 Un curso pasa por distintos estados desde su creación, cada uno con características y permisos específicos:
 
-1. **No iniciado**: Es el estado inicial del curso. Permite la inscripción de estudiantes. Los docentes pueden editar los detalles del curso, crear módulos, recursos y actividades (tareas y exámenes), pero no pueden publicar estas actividades aún.
+## Estados del Curso
 
-2. **Iniciado**: En este estado, los docentes pueden publicar actividades, recibir entregas de los estudiantes y calificarlas. La inscripción de nuevos alumnos ya no está disponible.
+### 1. Estado: No Iniciado
 
-3. **Finalizado**: Al finalizar el curso, se deshabilita la creación y publicación de módulos, recursos y actividades. Los estudiantes pueden dejar una reseña sobre el curso, y los docentes pueden asignar la calificación final revisando y calificando las entregas pendientes.
+Es el estado inicial del curso después de su creación. En este estado:
 
-En todos los estados, el Foro de preguntas y respuestas permanece disponible para docentes y estudiantes.
+**Funcionalidades disponibles:**
+
+- Permite la inscripción de estudiantes
+- Los docentes pueden editar los detalles del curso
+- Creación de módulos y recursos de aprendizaje
+- Creación de actividades (tareas y exámenes)
+
+**Restricción**: No se pueden publicar actividades aún
+
+### 2. Estado: Iniciado
+
+Cuando el curso está en progreso activo. En este estado:
+
+**Funcionalidades disponibles:**
+
+- Los docentes pueden publicar actividades
+- Recepción de entregas de estudiantes
+- Calificación de actividades y tareas
+
+**Restricción**: La inscripción de nuevos alumnos ya no está disponible
+
+### 3. Estado: Finalizado
+
+Al concluir el curso oficialmente. En este estado:
+
+**Funcionalidades disponibles:**
+
+- Los estudiantes pueden dejar reseñas sobre el curso
+- Los docentes pueden asignar calificaciones finales
+- Revisión y calificación de entregas pendientes
+
+**Restricción**: Se deshabilita la creación y publicación de módulos, recursos y actividades
+
+## Funcionalidades Transversales
+
+En todos los estados del curso, el **Foro de preguntas y respuestas** permanece disponible para docentes y estudiantes, facilitando la comunicación continua.
+
+## Transición entre Estados
+
+Los docentes pueden cambiar el estado del curso desde la pantalla de [**Detalles del curso**](details), donde encontrarán los botones correspondientes para iniciar o finalizar el curso según el estado actual.

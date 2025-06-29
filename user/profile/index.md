@@ -1,49 +1,52 @@
 ---
 title: Perfil de Usuario
-nav_order: 8
+nav_order: 4
 layout: default
 parent: Guía del Usuario
 ---
 
 # Perfil de Usuario
 
-En esta sección se detalla el uso de la pantalla de perfil de usuario, tanto para su propio usuarios como para la consulta de otros usuarios.
+En esta sección se detalla el uso de la pantalla de perfil de usuario, tanto para su propio usuario como para la consulta de otros usuarios.
 
-## Mi perfil
+## Mi Perfil
 
-En esta sección podés consultar y editar la información de tu perfil de usuario. La información disponible incluye:
+En esta sección puede consultar y editar la información de su perfil de usuario. La información disponible incluye:
 
-- **Nombre**: Tu nombre completo.
-- **Correo electrónico**: Tu dirección de correo electrónico asociada a la cuenta.
-- **Foto de perfil**: Una imagen que te representa en la aplicación.
-- **País de residencia**: El país donde resides.
+- **Nombre**: Su nombre completo
+- **Correo electrónico**: Su dirección de correo electrónico asociada a la cuenta
+- **Foto de perfil**: Una imagen que le representa en la aplicación
+- **País de residencia**: El país donde reside
 
-![Mi perfil]({{site.baseurl}}/assets/user/profile/my.png)
+![Mi Perfil]({{site.baseurl}}/assets/user/profile/my.png)
 
-### Editar perfil
+### Editar Perfil
 
-Para editar tu perfil, seguí estos pasos:
+Para editar su perfil, siga estos pasos:
 
-1. Presioná el botón **Editar perfil** en la parte superior derecha de la pantalla con el ícono de lápiz.
-2. Modificá los campos que desees actualizar, como tu nombre, correo electrónico, foto de perfil o país de residencia.
-3. Presioná el botón **Guardar cambios** en la parte superior derecha.
+1. Presione el botón **Editar perfil** en la parte superior derecha de la pantalla con el ícono de lápiz
+2. Modifique los campos que desee actualizar, como su nombre, correo electrónico, foto de perfil o país de residencia
+3. Presione el botón **Guardar cambios** en la parte superior derecha
 
-![Editar perfil]({{site.baseurl}}/assets/user/profile/edit.png)
+![Editar Perfil]({{site.baseurl}}/assets/user/profile/edit.png)
 
-### Mis notas
+### Mis Notas
 
-Esta sección muestra las notas obtenidas de todos los cursos en los que hayas participado como estudiante. Para más detalles sobre cómo funcionan las notas, consultá la sección de [Reseñas de alumnos](../reviews). <!-- TODO: Change LINK -->
+Esta sección muestra las notas obtenidas de todos los cursos en los que haya participado como estudiante. Aquí puede revisar su desempeño académico y progreso en los diferentes cursos completados.
 
-### Cerrar sesión
+<!-- TODO: Agregar información detallada sobre el sistema de notas y reseñas -->
+<!-- TODO: Crear sección de reseñas de alumnos si es necesaria -->
 
-Para cerrar sesión en la aplicación, presioná el botón **Cerrar sesión** en la parte inferior de la pantalla. Esto te desconectará de tu cuenta y te llevará a la pantalla de [inicio de sesión](../login).
+### Cerrar Sesión
 
-## Otros perfiles
+Para cerrar sesión en la aplicación, presione el botón **Cerrar sesión** en la parte inferior de la pantalla. Esto le desconectará de su cuenta y le llevará a la pantalla de [inicio de sesión](../login).
 
-En el caso de acceder al perfil de otro usuario, se mostrará solo la infromación pública de ese usuario, que incluye:
+## Otros Perfiles
 
-- **Nombre**: El nombre completo del usuario.
-- **Correo electrónico**: La dirección de correo electrónico del usuario.
-- **Foto de perfil**: La imagen que representa al usuario en la aplicación.
+En el caso de acceder al perfil de otro usuario, se mostrará solo la información pública de ese usuario, que incluye:
 
-![Perfil de otro usuario]({{site.baseurl}}/assets/user/profile/other.png)
+- **Nombre**: El nombre completo del usuario
+- **Correo electrónico**: La dirección de correo electrónico del usuario
+- **Foto de perfil**: La imagen que representa al usuario en la aplicación
+
+![Perfil de Otro Usuario]({{site.baseurl}}/assets/user/profile/other.png)

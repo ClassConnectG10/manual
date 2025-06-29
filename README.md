@@ -39,3 +39,40 @@ El sitio se construirá automáticamente y se guardará en el directorio `_site`
 - `index.md` - Página principal
 - `admin/` - Documentación para administradores
 - `user/` - Documentación para usuarios
+
+## TODOs Pendientes
+
+Los siguientes elementos están marcados con comentarios TODO en la documentación y requieren atención:
+
+### Imágenes Faltantes
+
+- Pantalla de creación de tareas
+- Pantalla de edición de tareas  
+- Pantalla de publicación de tareas
+- Vista de actividades para estudiantes y docentes
+- Interfaz de corrección automática con IA
+- Barra de secciones del curso
+
+### Funcionalidades Incompletas
+
+- Sistema completo de exámenes (en desarrollo)
+- Corrección automática de tareas con IA (documentación detallada)
+- Sistema de notas y reseñas de alumnos
+
+### Enlaces a Verificar
+
+- Enlaces relativos entre secciones
+- Navegación desde módulos a actividades
+- Enlaces a notificaciones desde home
+
+### Contenido a Expandir
+
+- Descripción detallada de secciones del curso
+- Información completa sobre el sistema de notificaciones
+- Documentación de tipos de preguntas para exámenes
+
+Para buscar todos los TODOs en el proyecto:
+
+```bash
+grep -r "TODO" --include="*.md" .
+```
