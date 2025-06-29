@@ -12,11 +12,17 @@ En esta sección se permite organizar los contenidos del curso en distintos mód
 - **Título**: Nombre del módulo.
 - **Descripción**: Breve descripción del contenido del módulo.
 
-Los cuales se deben completar en la creación del módulo y son editables posteriormente.
+![Lista de módulos]({{ site.baseurl }}/assets/users/courses/modules/list_modules.png)
 
-(creación de módulo)
+Para crear un módulo, el docente debe seguir estos pasos:
 
-(edición del módulo)
+1. Presionar el botón de **Crear módulo** (con un símbolo "+") en la sección de módulos del curso.
+2. Completar los campos requeridos
+3. Presionar el botón de **Crear módulo**.
+
+![Creación de módulo]({{ site.baseurl }}/assets/users/courses/modules/create_module.png)
+
+Estos son editables posteriormente. Para ello debemos acceder a la información del módulo, donde se pueden editar los datos del mismo. Esto se realiza presionando el botón de información (con un icono de "i") en la esquina superior derecha de la pantalla del curso. Luego se debe presionar el botón de editar (con un icono de lápiz) para habilitar la edición de los datos del módulo.
 
 ## Orden de los módulos
 
@@ -28,6 +34,8 @@ Estos módulos comprenden la ruta de aprendizaje del curso y permiten a los estu
 
 Cada módulo puede contenter distintos recursos según los docentes consideren necesarios para el curso.
 
+![Contenido del módulo]({{ site.baseurl }}/assets/users/courses/modules/module_content.png)
+
 ### Recursos de aprendizaje
 
 Cada módulo consta de una serie de recursos de aprendizaje que pueden incluir:
@@ -37,13 +45,22 @@ Cada módulo consta de una serie de recursos de aprendizaje que pueden incluir:
 - **Archivos**: Documentos, presentaciones, PDFs, etc.
 - **Enlaces**: URLs a recursos externos.
 
-(creación de recurso)
+Para crear un recurso dentro de un módulo, el docente debe:
+
+1. Acceder al módulo correspondiente.
+2. Presionar el botón de **Crear recurso** (con un símbolo "+").
+3. Completar los campos requeridos.
+4. Presionar el botón de **Crear recurso**.
+
+![Creación de recurso]({{ site.baseurl }}/assets/users/courses/modules/create_resource.png)
 
 Todos esta información es editable posteriormente, permitiendo a los docentes actualizar o modificar los recursos según sea necesario.
 
-De la misma manera, estos pueden ser ordenados dentro del módulo para facilitar la ruta de aprendizaje del estudiante.
+De la misma manera, estos pueden ser ordenados dentro del módulo para facilitar la ruta de aprendizaje del estudiante:
 
-(img ordenar recursos)
+1. Acceder al módulo correspondiente.
+2. Presionar el botón de **Ordenar recursos** (con un icono de "reordenar").
+3. Arrastrar y soltar los recursos en el orden deseado.
 
 ### Actividades
 
