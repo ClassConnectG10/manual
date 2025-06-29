@@ -8,8 +8,6 @@ baseurl: "/manual"
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-favicon: "/assets/favicon.ico"
+favicon_ico: "/assets/favicon.ico"
 
 permalink: pretty
-
-

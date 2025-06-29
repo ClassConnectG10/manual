@@ -7,26 +7,28 @@ parent: Secciones del curso
 
 # Actividades
 
-Esta sección muestra las actividades (tareas y exámenes) del curso. La vista varía según el rol del usuario:
+En esta sección podés gestionar y consultar las actividades del curso, como tareas y exámenes. La información y las
+opciones disponibles varían según tu rol:
 
-- **Estudiante**: Muestra la lista de actividades publicadas del curso, pudiendo filtrar por tipo (tareas/exámenes) y estado
-(entregadas/no entregadas). Por cada actividad se muestra su título y el tiempo restante para su entrega (en caso de no
-haber sido entregada todavía).
+- **Estudiantes**: Pueden ver únicamente las actividades publicadas. Pueden filtrar por tipo (tareas o exámenes) y
+  estado (entregadas o pendientes). Para cada actividad se muestra el título y el tiempo restante para la entrega, si aún
+  no fue enviada.
 
-(Vista de actividades del alumno)
+      > *Vista de actividades para estudiantes*
 
-- **Profesor**: Muestra todas las actividades del curso, pudiendo filtrar por tipo (tareas/exámenes) y visibilidad (publicadas/no publicadas). Por cada actividad se muestra su título y el tiempo restante para su entrega.
+- **Docentes**: Acceden a todas las actividades del curso, con filtros por tipo (tareas o exámenes) y visibilidad
+  (publicadas o no publicadas). Se muestra el título y el tiempo restante para la entrega de cada actividad.
 
-(Vista de actividades del profesor)
+      > *Vista de actividades para docentes*
 
-## Creación de actividades
+## Crear actividades
 
-Los docentes pueden crear actividades desde esta sección, haciendo clic en el botón de crear actividad (con un símbolo "+").
-Desde ahí se puede seleccionar el tipo de actividad a crear, y luego completar con los detalles necesarios. Para más
-información, consultar las secciones de [Tareas](tasks) y [Exámenes](exams).
+Los docentes pueden crear nuevas actividades desde esta sección, utilizando el botón de creación (identificado con el
+símbolo "+"). Al crear una actividad, se selecciona el tipo (tarea o examen) y se completan los detalles requeridos.
+Para más información, consultá las secciones de [Tareas](tasks) y [Exámenes](exams).
 
-## Visualización de actividades
+## Consultar y gestionar actividades
 
-Al presionar sobre una actividad de la lista, se accede a su información detallada. Desde allí se puede completar y
-entregar la actividad (en caso de ser un estudiante), o editarla y corregirla (en caso de ser un docente). Para más
-información, consultar las secciones de [Tareas](tasks) y [Exámenes](exams).
+Al seleccionar una actividad de la lista, accedés a su información detallada. Los estudiantes pueden completar y
+entregar la actividad desde esta vista. Los docentes pueden editar, corregir o gestionar la actividad según corresponda.
+Para más detalles, revisá las secciones de [Tareas](tasks) y [Exámenes](exams).
