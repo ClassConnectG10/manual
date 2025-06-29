@@ -5,12 +5,6 @@ layout: default
 parent: Guía del Usuario
 ---
 
-# Vista principal del curso
+# Cursos
 
-1. **Información general del curso**: muestra el nombre, la descripción y la categoría del curso.
-2. **Sección actual**: aquí se muestra el contenido de la sección seleccionada desde la barra de secciones.
-3. **Barra de secciones**: permite navegar entre las siguientes secciones del curso (ver el apartado de [Secciones del curso](sections)):
-4. **Detalles del curso**: al presionarlo, se accede a una pantalla con información adicional del curso (ver sección de [Detalles del curso](details)).
-5. **Marcar como favorito**: permite marcar (o desmarcar) el curso como favorito. Los cursos favoritos se pueden ver en la pantalla principal de cursos filtrando con el botón correspondiente.
-
-![Vista principal del curso]({{site.baseurl}}/assets/users/courses/course_view.png)
+En ClassConnect, los cursos son el núcleo de la plataforma. Permiten a los docentes crear y gestionar contenidos educativos, mientras que los alumnos pueden inscribirse y participar en ellos. A continuación, se describen las principales funcionalidades relacionadas con los cursos.

@@ -1,6 +1,6 @@
 ---
 title: Módulos
-nav_order: 11
+nav_order: 2
 layout: default
 parent: Secciones del curso
 ---
@@ -12,7 +12,7 @@ En esta sección se permite organizar los contenidos del curso en distintos mód
 - **Título**: Nombre del módulo.
 - **Descripción**: Breve descripción del contenido del módulo.
 
-![Lista de módulos]({{site.baseurl}}/assets/users/courses/modules/list_modules.png)
+![Lista de módulos]({{site.baseurl}}/assets/user/courses/modules/list_modules.png)
 
 Para crear un módulo, el docente debe seguir estos pasos:
 
@@ -20,7 +20,7 @@ Para crear un módulo, el docente debe seguir estos pasos:
 2. Completar los campos requeridos
 3. Presionar el botón de **Crear módulo**.
 
-![Creación de módulo]({{site.baseurl}}/assets/users/courses/modules/create_module.png)
+![Creación de módulo]({{site.baseurl}}/assets/user/courses/modules/create_module.png)
 
 Estos son editables posteriormente. Para ello debemos acceder a la información del módulo, donde se pueden editar los datos del mismo. Esto se realiza presionando el botón de información (con un icono de "i") en la esquina superior derecha de la pantalla del curso. Luego se debe presionar el botón de editar (con un icono de lápiz) para habilitar la edición de los datos del módulo.
 
@@ -28,13 +28,13 @@ Estos son editables posteriormente. Para ello debemos acceder a la información 
 
 Estos módulos comprenden la ruta de aprendizaje del curso y permiten a los estudiantes acceder a los recursos de manera estructurada. Es por ello que los docentes tienen la capacidad de reordenar los módulos según el flujo de aprendizaje deseado.
 
-![Ordenar módulos]({{site.baseurl}}/assets/users/courses/order_modules.gif)
+![Ordenar módulos]({{site.baseurl}}/assets/user/courses/order_modules.gif)
 
 ## Contenido del módulo
 
 Cada módulo puede contenter distintos recursos según los docentes consideren necesarios para el curso.
 
-![Contenido del módulo]({{site.baseurl}}/assets/users/courses/modules/module_content.png)
+![Contenido del módulo]({{site.baseurl}}/assets/user/courses/modules/module_content.png)
 
 ### Recursos de aprendizaje
 
@@ -52,7 +52,7 @@ Para crear un recurso dentro de un módulo, el docente debe:
 3. Completar los campos requeridos.
 4. Presionar el botón de **Crear recurso**.
 
-![Creación de recurso]({{site.baseurl}}/assets/users/courses/modules/create_resource.png)
+![Creación de recurso]({{site.baseurl}}/assets/user/courses/modules/create_resource.png)
 
 Todos esta información es editable posteriormente, permitiendo a los docentes actualizar o modificar los recursos según sea necesario.
 

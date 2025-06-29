@@ -1,6 +1,6 @@
 ---
 title: Actividades
-nav_order: 11
+nav_order: 1
 layout: default
 parent: Secciones del curso
 ---

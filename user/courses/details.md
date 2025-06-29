@@ -1,6 +1,6 @@
 ---
 title: Detalles del curso
-nav_order: 9
+nav_order: 4
 layout: default
 parent: Cursos
 grand_parent: Guía del Usuario
@@ -10,7 +10,7 @@ grand_parent: Guía del Usuario
 
 Aquí se muestra la información compelta del curso, incluyendo el docente titular, el nombre del curso, descripción, fecha de inicio y finalización, nivel, categoría, modalidad y cursos requeridos. También se puede ver la cantidad de alumnos inscriptos y el cupo máximo de inscripción.
 
-(Pantalla de detalles del curso)
+![Vista de detalles del curso]({{site.baseurl}}/assets/user/courses/course_details.png)
 
 ## Acciones disponibles del docente
 

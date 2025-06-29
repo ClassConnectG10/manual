@@ -18,7 +18,7 @@ En esta sección podés consultar y editar la información de tu perfil de usuar
 - **Foto de perfil**: Una imagen que te representa en la aplicación.
 - **País de residencia**: El país donde resides.
 
-![Mi perfil]({{site.baseurl}}/assets/users/profile/my.png)
+![Mi perfil]({{site.baseurl}}/assets/user/profile/my.png)
 
 ### Editar perfil
 
@@ -28,7 +28,7 @@ Para editar tu perfil, seguí estos pasos:
 2. Modificá los campos que desees actualizar, como tu nombre, correo electrónico, foto de perfil o país de residencia.
 3. Presioná el botón **Guardar cambios** en la parte superior derecha.
 
-![Editar perfil]({{site.baseurl}}/assets/users/profile/edit.png)
+![Editar perfil]({{site.baseurl}}/assets/user/profile/edit.png)
 
 ### Mis notas
 
@@ -46,4 +46,4 @@ En el caso de acceder al perfil de otro usuario, se mostrará solo la infromaci�
 - **Correo electrónico**: La dirección de correo electrónico del usuario.
 - **Foto de perfil**: La imagen que representa al usuario en la aplicación.
 
-![Perfil de otro usuario]({{site.baseurl}}/assets/users/profile/other.png)
+![Perfil de otro usuario]({{site.baseurl}}/assets/user/profile/other.png)

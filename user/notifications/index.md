@@ -9,7 +9,7 @@ parent: Guía del Usuario
 
 Las notificaciones en ClassConnect son una herramienta esencial para mantenerte informado sobre las actividades y eventos importantes relacionados con tus cursos.
 
-![Notificaciones]({{site.baseurl}}/assets/users/notifications/list.png)
+![Notificaciones]({{site.baseurl}}/assets/user/notifications/notifications_list.png)
 
 ## Lista de Notificaciones
 
@@ -35,7 +35,7 @@ Desde allí, podrás ver y modificar qué tipos de notificaciones deseas recibir
 
 Esta configuración es individual para cada evento de notificación, lo que significa que puedes elegir recibir notificaciones por correo electrónico para algunos eventos, notificaciones push para otros, o no recibir notificaciones para determinados eventos.
 
-![Preferencias de Notificación]({{site.baseurl}}/assets/users/notifications/preferences.png)
+![Preferencias de Notificación]({{site.baseurl}}/assets/user/notifications/notifications_preferences.png)
 
 **Nota importante**: Algunos eventos de notificación son obligatorios y no se pueden desactivar, como las notificaciones de inscripción a un curso o las notificaciones de expulsión de un curso. Estos eventos aparecen con un tono gris en la lista de notificaciones y no tienen opciones de configuración disponibles.
 
