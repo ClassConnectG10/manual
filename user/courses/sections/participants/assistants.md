@@ -1,87 +1,81 @@
 ---
 title: Asistentes
-nav_order: 2
+nav_order: 1
 layout: default
 parent: Miembros
 ---
 
-# Asistentes
+Los asistentes son colaboradores que tienen acceso completo al curso con algunas excepciones. Solo el docente titular puede agregar y remover asistentes.
 
-Los asistentes son colaboradores del curso con permisos especiales para ayudar en la gestión académica. Esta sección permite al docente titular administrar los asistentes del curso.
+## Agregar Asistentes
 
-![Vista de asistentes]({{site.baseurl}}/assets/user/courses/participants/assistants_view.png)
-<!-- TODO: Agregar imagen assistants_view.png mostrando la lista de asistentes -->
+Para agregar un nuevo asistente:
 
-## Funcionalidades para Docentes
-
-### Gestión de Asistentes
-
-Los docentes titulares pueden:
-
-- **Agregar asistentes**: Invitar usuarios con permisos de colaboración
-- **Remover asistentes**: Eliminar permisos de colaboración
-- **Ver información**: Acceder a perfiles y actividad de asistentes
+1. Ve a la sección **Miembros** del curso
+2. En la sección de **Asistentes**, haz clic en el botón **+**
 
 ![Agregar asistente]({{site.baseurl}}/assets/user/courses/participants/add_assistant.png)
-<!-- TODO: Agregar imagen add_assistant.png mostrando el formulario para agregar asistente -->
 
-### Proceso de Invitación
+Luego:
 
-1. **Buscar usuario**: Por nombre de usuario o correo electrónico
-2. **Enviar invitación**: El sistema notifica al usuario invitado
-3. **Confirmación**: El usuario acepta o rechaza la invitación
-4. **Asignación de permisos**: El asistente obtiene acceso al curso
+1. Busca al usuario por nombre o email
+2. Selecciona al usuario y agrégalo como asistente
 
-## Permisos de Asistentes
+![Buscar asistente]({{site.baseurl}}/assets/user/courses/participants/search_assistant.png)
 
-Los asistentes tienen los siguientes permisos:
+Los usuarios pueden ser agregados individualmente mediante el buscador.
 
-### Gestión Académica
+## Permisos de los Asistentes
 
-- **Corregir actividades**: Calificar tareas y exámenes
-- **Ver entregas**: Acceder a las entregas de estudiantes
-- **Gestionar foros**: Moderar preguntas y respuestas
-- **Acceder a estadísticas**: Consultar métricas del curso
+Los asistentes tienen acceso a **todas las funcionalidades del curso** que tiene el propietario, excepto:
 
-### Gestión de Estudiantes
+- **Gestión del ciclo de vida del curso** - No pueden crear, archivar o eliminar el curso
+- **Gestión de miembros** - No pueden agregar o remover otros asistentes o estudiantes
 
-- **Ver información**: Acceder a perfiles y progreso académico
-- **Comunicarse**: Enviar mensajes y notificaciones
-- **Generar reportes**: Crear informes de rendimiento
+Para más información sobre el ciclo de vida del curso, consulta [Ciclo de Vida del Curso](../../../course_lifecycle).
 
-### Limitaciones
+### Acceso Completo
 
-Los asistentes **NO** pueden:
+Los asistentes tienen acceso completo a:
 
-- **Eliminar el curso**: Solo el docente titular puede hacerlo
-- **Remover al docente titular**: No tienen permisos administrativos superiores
-- **Modificar configuración**: Cambios en estructura o configuración del curso
-- **Agregar otros asistentes**: Solo el docente titular puede invitar asistentes
+- Módulos y contenido del curso
+- Actividades y tareas
+- Foros y discusiones
+- Calificaciones de estudiantes
+- Estadísticas del curso
+- Configuración del curso
 
-## Vista para Asistentes
+## Registro de Actividades
 
-Los asistentes pueden ver:
+**Importante:** Todas las acciones realizadas por los asistentes son registradas automáticamente.
 
-- **Otros asistentes**: Lista de colaboradores del curso
-- **Información del docente**: Perfil del docente titular
-- **Sus propios permisos**: Qué funcionalidades tienen disponibles
+Como docente titular, puedes ver el historial completo de actividades de cada asistente accediendo a sus detalles desde la sección de **Miembros**.
 
-## Comunicación y Colaboración
+Al acceder a los detalles del asistente, también puedes hacer clic en su información para ir directamente a su [perfil de usuario](../../../profile/#otros-perfiles).
 
-### Canales de Comunicación
+![Detalle del asistente]({{site.baseurl}}/assets/user/courses/participants/assistant_details.png)
 
-- **Mensajes directos**: Comunicación privada con docente y otros asistentes
-- **Notificaciones**: Alertas sobre entregas y actividades
-- **Foros**: Participación en discusiones del curso
+Este registro incluye:
 
-### Coordinación de Tareas
+- Modificaciones al contenido
+- Calificaciones otorgadas
+- Participación en foros
+- Fechas y horas de cada acción
+- Cualquier otra actividad relevante dentro del curso
 
-- **Asignación de correcciones**: Distribución de tareas de evaluación
-- **Seguimiento de progreso**: Coordinación del avance académico
-- **Reportes colaborativos**: Generación conjunta de informes
+Cada registro de actividad incluye:
 
-## Navegación
+- Numeración de la acción
+- Fecha y hora de la acción
+- Descripción de la acción realizada
 
-Para regresar a la vista general de miembros del curso, utiliza [Miembros](../index).
+## Remover Asistentes
 
-Para más información sobre la gestión de estudiantes, consulta [Estudiantes](students).
+Solo el docente titular puede remover asistentes del curso. Para hacerlo:
+
+1. Ve a la sección **Miembros** del curso
+2. En la sección de **Asistentes**, selecciona el asistente que deseas remover
+3. Haz clic en el botón **Remover asistente**
+4. Confirma la acción
+
+![Remover asistente]({{site.baseurl}}/assets/user/courses/participants/remove_assistant.png)

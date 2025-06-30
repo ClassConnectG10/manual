@@ -1,74 +1,105 @@
 ---
 title: Estudiantes
-nav_order: 1
+nav_order: 2
 layout: default
 parent: Miembros
+grand_parent: Secciones del Curso
+great_grand_parent: Cursos
+great_great_grand_parent: Guía del Usuario
 ---
 
-# Estudiantes
+Los estudiantes son los participantes principales del curso.
 
-Esta sección permite gestionar y visualizar información sobre los estudiantes matriculados en el curso. Las funcionalidades disponibles dependen del rol del usuario.
+## Auto-matriculación de Estudiantes
 
-![Vista de estudiantes]({{site.baseurl}}/assets/user/courses/participants/students_view.png)
-<!-- TODO: Agregar imagen students_view.png mostrando la lista de estudiantes -->
+Los estudiantes **NO pueden ser agregados manualmente** por el docente o asistentes. Deben matricularse por sí mismos en los cursos disponibles.
 
-## Vista para Docentes
+Para conocer más sobre el proceso de matriculación, consulta [Matricularse en un Curso](../../../join)
 
-Los docentes pueden acceder a información completa sobre los estudiantes:
+## Acceso a Detalles del Estudiante
 
-### Información Disponible
+Como docente titular o asistente, al hacer clic en un estudiante puedes:
 
-- **Lista completa de estudiantes**: Todos los matriculados en el curso
-- **Información de perfil**: Nombre, foto, información de contacto
-- **Progreso académico**: Calificaciones y estado de entregas
-- **Estadísticas individuales**: Rendimiento en actividades
+- **Ver su información personal** y datos de contacto
+- **Acceder a su perfil de usuario** haciendo clic en su información
+- **Consultar sus actividades** y entregas
+- **Revisar sus estadísticas** de rendimiento en el curso
+- **Asignar una calificación final** y un comentario de retroalimentación
 
-![Detalle de estudiante]({{site.baseurl}}/assets/user/courses/participants/student_detail.png)
-<!-- TODO: Agregar imagen student_detail.png mostrando el detalle de un estudiante -->
+![Detalle del estudiante]({{site.baseurl}}/assets/user/courses/participants/student_detials.png)
 
-### Funcionalidades de Gestión
+## Sección de Actividades
 
-- **Ver perfil completo**: Acceso a toda la información del estudiante
-- **Consultar progreso**: Revisar entregas y calificaciones
-- **Remover del curso**: Eliminar estudiante de la matrícula (solo docente titular)
+En el detalle del estudiante, la sección de **Actividades** muestra todas las tareas y exámenes organizados por estudiante (no agrupadas por tipo de actividad).
 
-## Vista para Asistentes
+![Sección de actividades del estudiante]({{site.baseurl}}/assets/user/courses/participants/student_submissions.png)
 
-Los asistentes tienen acceso limitado a la información de estudiantes:
+### Filtros Disponibles
 
-- **Ver lista de estudiantes**: Nombres y información básica
-- **Acceder a perfiles**: Información académica relevante
-- **Consultar entregas**: Para tareas de corrección asignadas
+- **Completadas** - Muestra solo las actividades que el estudiante ha entregado
+- **No completadas** - Muestra las actividades pendientes de entrega
 
-## Vista para Estudiantes
+Para más información sobre el sistema de entregas, consulta [Entregas de Actividades](../../activities).
 
-Los estudiantes pueden ver información básica de sus compañeros:
+## Sección de Estadísticas
 
-- **Lista de participantes**: Nombres y fotos de perfil
-- **Información pública**: Solo datos que los usuarios han hecho públicos
+Las estadísticas del estudiante siguen un formato similar a las estadísticas generales del curso, pero enfocadas en el rendimiento individual.
 
-## Gestión de Matrículas
+### Actividades
 
-### Inscripción de Estudiantes
+Muestra el rendimiento general del estudiante en todas las actividades del curso:
 
-Los estudiantes se inscriben al curso mediante:
+![Panel de estadísticas de actividades]({{site.baseurl}}/assets/user/courses/participants/activities_panel.png)
 
-- **Código de acceso**: Proporcionado por el docente
-- **Enlace de invitación**: Enviado directamente por el docente
-- **Solicitud de inscripción**: Pendiente de aprobación
+### Tareas
 
-Para más información sobre el proceso de inscripción, consulta [Unirse a un Curso](../../join).
+Rendimiento y tiempo de entrega en las tareas asignadas:
 
-### Seguimiento Académico
+![Panel de estadísticas de tareas]({{site.baseurl}}/assets/user/courses/participants/student_tasks_panel.png)
 
-Los docentes pueden realizar seguimiento del progreso mediante:
+### Exámenes
 
-- **Panel de calificaciones**: Vista consolidada de todas las actividades
-- **Reportes de entregas**: Estado de tareas y exámenes por estudiante
-- **Análisis de participación**: Actividad en foros y recursos
+Rendimiento y tiempo de entrega en los exámenes:
 
-Para análisis detallado, consulta la sección [Estadísticas](../statistics).
+![Panel de estadísticas de exámenes]({{site.baseurl}}/assets/user/courses/participants/student_exams_panel.png)
 
-## Navegación
+### Foro
 
-Para regresar a la vista general de miembros del curso, utiliza [Miembros](../index).
+![Panel de estadísticas del foro]({{site.baseurl}}/assets/user/courses/participants/student_forum_panel.png)
+
+### Entregas
+
+![Panel de estadísticas de entregas]({{site.baseurl}}/assets/user/courses/participants/student_submissions.png)
+
+Análisis temporal de las entregas del estudiante:
+
+- Entregas a tiempo vs. tardías
+- Promedio de anticipación/retraso
+- Gráfico de entregas a lo largo del tiempo
+
+![Análisis temporal de entregas]({{site.baseurl}}/assets/user/courses/participants/student_submission_temporal_analysis.png)
+
+### Exportar Estadísticas
+
+Las estadísticas individuales del estudiante pueden exportarse a Excel para análisis detallado.
+
+Para más información sobre la exportación de estadísticas disponibles, consulta [Exportación de Datos de Estadísticas del Curso](../../statistics/#exportación-de-datos).
+
+## Calificación Final
+
+Puedes asignar una calificación final y dar un comentario de retroalimentación al estudiante una vez completado el curso.
+
+Para más detalles sobre este proceso, consulta [Calificación Final del Estudiante](../../../course_grades/#establecer-la-calificación-final).
+
+## Remover Estudiantes
+
+Solo el docente titular puede remover estudiantes del curso:
+
+1. Ve a la sección **Miembros** del curso
+2. Selecciona el estudiante que deseas remover
+3. Haz clic en **Remover estudiante**
+4. Confirma la acción
+
+![Remover estudiante]({{site.baseurl}}/assets/user/courses/participants/remove_student.png)
+
+**Importante:** El estudiante perderá acceso inmediato al curso y todo su progreso.
