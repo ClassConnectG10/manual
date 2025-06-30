@@ -34,9 +34,6 @@ Para editar su perfil, siga estos pasos:
 
 Esta sección muestra las notas obtenidas de todos los cursos en los que haya participado como estudiante. Aquí puede revisar su desempeño académico y progreso en los diferentes cursos completados.
 
-<!-- TODO: Agregar información detallada sobre el sistema de notas y reseñas -->
-<!-- TODO: Crear sección de reseñas de alumnos si es necesaria -->
-
 ### Cerrar Sesión
 
 Para cerrar sesión en la aplicación, presione el botón **Cerrar sesión** en la parte inferior de la pantalla. Esto le desconectará de su cuenta y le llevará a la pantalla de [inicio de sesión](../login).

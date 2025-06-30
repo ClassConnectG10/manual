@@ -32,4 +32,4 @@ Presionar el botón **Editar curso**, ubicado en la parte superior derecha, para
 
 ### Gestión del Estado del Curso
 
-Desde la parte inferior de esta vista se puede **iniciar** o **finalizar** el curso según corresponda. Para más información, revise la sección de [**Ciclo de vida del curso**](course_lifecycle).
+Desde la parte inferior de esta vista se puede **iniciar** o **finalizar** el curso según corresponda. Para más información, revise la sección de [**Ciclo de vida del curso**](../course_lifecycle).

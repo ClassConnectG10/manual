@@ -56,7 +56,7 @@ Las notificaciones se pueden configurar de manera general (usando la primera opc
 - **Calificación de curso**: Notificación cuando se recibe una calificación de curso
 - **Recurso publicado**: Notificación cuando un recurso del curso es publicado
 - **Estudiante expulsado**: Notificación cuando un estudiante es expulsado de un curso
-- **Nota registrada**: Notificación cuando se registra una nota en el curso
+- **Reseña enviada**: Notificación cuando se envía una reseña de un curso
 
 ### Notificaciones para Docentes
 

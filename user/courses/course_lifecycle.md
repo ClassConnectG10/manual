@@ -55,4 +55,4 @@ En todos los estados del curso, el **Foro de preguntas y respuestas** permanece 
 
 ## Transición entre Estados
 
-Los docentes pueden cambiar el estado del curso desde la pantalla de [**Detalles del curso**](details), donde encontrarán los botones correspondientes para iniciar o finalizar el curso según el estado actual.
+Los docentes pueden cambiar el estado del curso desde la pantalla de [**Detalles del curso**](../details), donde encontrarán los botones correspondientes para iniciar o finalizar el curso según el estado actual.

@@ -73,6 +73,4 @@ Los recursos pueden ser ordenados dentro del módulo para facilitar la ruta de a
 
 Las actividades (tareas y exámenes) también deben ser organizadas dentro de los módulos, por lo que las mismas se listarán en la sección de actividades del módulo correspondiente. Esto permite a los estudiantes ver las actividades relacionadas con el contenido que están estudiando.
 
-Para más información sobre las actividades, consulte la sección de [**Actividades**](activities).
-
-<!-- TODO: Verificar que el enlace a actividades funcione correctamente desde esta ubicación -->
+Para más información sobre las actividades, consulte la sección de [**Actividades**](../activities).

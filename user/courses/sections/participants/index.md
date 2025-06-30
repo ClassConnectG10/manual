@@ -11,14 +11,13 @@ has_children: true
 La sección de **Miembros** permite ver a todos los participantes del curso: docente titular, asistentes y estudiantes matriculados.
 
 ![Miembros del curso]({{site.baseurl}}/assets/user/courses/participants/participants_view.png)
-<!-- TODO: Agregar imagen participants_view.png mostrando la vista de miembros del curso -->
 
 ## Vista de Miembros
 
 Como miembro del curso puedes ver a todos los otros miembros organizados en tres secciones:
 
 - **Docente titular** - El propietario y creador del curso
-- **Asistentes** - Colaboradores con permisos especiales  
+- **Asistentes** - Colaboradores con permisos especiales
 - **Estudiantes** - Participantes matriculados en el curso
 
 ## Acceso según tu Rol
@@ -30,16 +29,16 @@ Como miembro del curso puedes ver a todos los otros miembros organizados en tres
 - **Agregar y remover asistentes**
 - **Remover estudiantes** del curso
 
-Para más información sobre la gestión de asistentes, consulta [Gestión de Asistentes](assistants).
-
 Para más información sobre la gestión de estudiantes, consulta [Gestión de Estudiantes](students).
+
+Para más información sobre la gestión de asistentes, consulta [Gestión de Asistentes](assistants).
 
 ### Como Asistente
 
 - **Ver perfiles** de todos los miembros
 - **Acceder al detalle** de estudiantes únicamente
 
-Para más información, consulta [Estudiantes](students).
+Para más información sobre la gestión de estudiantes, consulta [Gestión de Estudiantes](students).
 
 ### Como Estudiante
 
