@@ -28,7 +28,8 @@ Para crear una examen, el docente debe seguir estos pasos:
    - **Instrucciones**: Instrucciones detalladas sobre lo que se espera en la entrega
    - **Fecha límite**: Fecha y hora límite para la entrega del examen
    - **Módulo**: El módulo al que pertenece el examen
-     ![Creación de un examen]({{site.baseurl}}/assets/user/courses/activities/exams/create_exam.png)
+
+    ![Creación de un examen]({{site.baseurl}}/assets/user/courses/activities/exams/create_exam.png)
 
 5. **Agregar preguntas** presionando el botón correspondiente (abajo a la derecha, con un símbolo "+"). Allí se puede
    seleccionar el tipo de pregunta y completar los detalles necesarios:
