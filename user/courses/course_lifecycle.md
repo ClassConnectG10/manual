@@ -1,6 +1,6 @@
 ---
 title: Ciclo de Vida de un Curso
-nav_order: 5
+nav_order: 6
 layout: default
 parent: Cursos
 grand_parent: Guía del Usuario

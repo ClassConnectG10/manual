@@ -36,53 +36,22 @@ El sitio se construirá automáticamente y se guardará en el directorio `_site`
 
 ## Estructura del Manual
 
-- `index.md` - Página principal
-- `admin/` - Documentación para administradores
-- `user/` - Documentación para usuarios
+El manual está organizado con la siguiente estructura de carpetas y archivos:
 
-## TODOs Pendientes
+### Carpetas Principales
 
-Los siguientes elementos están marcados con comentarios TODO en la documentación y requieren atención:
+- `admin/` - Documentación para administradores del sistema
+- `user/` - Documentación para usuarios (estudiantes, docentes, asistentes)
+- `assets/` - Imágenes y recursos multimedia organizados por sección
+- `_includes/` - Componentes reutilizables de Jekyll
+- `_site/` - Sitio web generado (no editar manualmente)
+- `vendor/` - Dependencias de Ruby/Jekyll
 
-### Imágenes Faltantes
+### Archivos de Configuración
 
-- Pantalla de creación de tareas
-- Pantalla de edición de tareas  
-- Pantalla de publicación de tareas
-- Vista de actividades para estudiantes y docentes
-- Interfaz de corrección automática con IA
-- Barra de secciones del curso
-- **NUEVO**: Pantalla de corrección con IA y modal
-- **NUEVO**: Modal de corrección completada
-- **NUEVO**: Vista de entrega y calificación para alumnos
-
-### Funcionalidades Incompletas
-
-- Sistema completo de exámenes (en desarrollo)
-- **AMPLIADO**: Corrección automática de tareas con IA (documentación completada con detalles del proceso)
-- Sistema de notas y reseñas de alumnos
-
-### Contenido Agregado desde la Rama tasks-and-exams
-
-- ✅ **Corrección automática con IA**: Proceso completo documentado
-- ✅ **Visualización para alumnos**: Nueva sección sobre cómo los estudiantes ven sus entregas
-- ✅ **Condiciones para IA**: Requisitos específicos para usar corrección automática
-- ✅ **Notificaciones**: Integración del sistema de notificaciones para corrección IA
-
-### Enlaces a Verificar
-
-- Enlaces relativos entre secciones
-- Navegación desde módulos a actividades
-- Enlaces a notificaciones desde home
-
-### Contenido a Expandir
-
-- Descripción detallada de secciones del curso
-- Información completa sobre el sistema de notificaciones
-- Documentación de tipos de preguntas para exámenes
-
-Para buscar todos los TODOs en el proyecto:
-
-```bash
-grep -r "TODO" --include="*.md" .
-```
+- `_config.yml` - Configuración principal de Jekyll
+- `Gemfile` - Dependencias de Ruby
+- `Gemfile.lock` - Versiones específicas de dependencias
+- `index.md` - Página principal del manual
+- `README.md` - Este archivo de documentación
+- `LICENSE` - Licencia del proyecto

@@ -1,6 +1,6 @@
 ---
 title: Secciones del Curso
-nav_order: 6
+nav_order: 5
 layout: default
 parent: Cursos
 grand_parent: Guía del Usuario

@@ -20,6 +20,4 @@ La pantalla principal de ClassConnect es el punto de entrada principal para los 
 7. **Mi perfil**: Al presionarlo, se accede a la pantalla de perfil del usuario. Más información en la sección [Mi perfil](../profile).
 8. **Botón de notificaciones**: Al presionarlo, se accede a la pantalla de notificaciones del usuario. Más información en la sección [Notificaciones](../notifications).
 
-<!-- TODO: Verificar que el enlace a notificaciones funcione correctamente -->
-
 ![Pantalla Principal de ClassConnect]({{site.baseurl}}/assets/user/home/home_view.png)
