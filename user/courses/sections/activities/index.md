@@ -10,22 +10,17 @@ has_children: true
 
 En esta sección puede gestionar y consultar las actividades del curso, como tareas y exámenes. La información y las opciones disponibles varían según su rol:
 
-![Vista de actividades]({{site.baseurl}}/assets/user/courses/activities/activities_main_view.png)
-<!-- TODO: Agregar imagen activities_main_view.png mostrando la vista principal de actividades -->
-
 ## Vista para Estudiantes
 
 Los estudiantes pueden ver únicamente las actividades publicadas. Pueden filtrar por tipo (tareas o exámenes) y estado (entregadas o pendientes). Para cada actividad se muestra el título y el tiempo restante para la entrega, si aún no fue enviada.
 
-![Vista de actividades para estudiantes]({{site.baseurl}}/assets/user/courses/activities/student_activities_view.png)
-<!-- TODO: Agregar imagen student_activities_view.png de la vista de actividades para estudiantes -->
+![Vista de actividades para estudiantes]({{site.baseurl}}/assets/user/courses/activities/student_view.png)
 
 ## Vista para Docentes
 
 Los docentes acceden a todas las actividades del curso, con filtros por tipo (tareas o exámenes) y visibilidad (publicadas o no publicadas). Se muestra el título y el tiempo restante para la entrega de cada actividad.
 
-![Vista de actividades para docentes]({{site.baseurl}}/assets/user/courses/activities/teacher_activities_view.png)
-<!-- TODO: Agregar imagen teacher_activities_view.png de la vista de actividades para docentes -->
+![Vista de actividades para docentes]({{site.baseurl}}/assets/user/courses/activities/teacher_view.png)
 
 ## Crear Actividades
 

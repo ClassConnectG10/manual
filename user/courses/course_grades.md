@@ -17,7 +17,7 @@ correlativos.
 Desde la sección de [Participantes del curso](../sections/participants/), al presionar un estudiante se accede a una
 vista donde se puede colocar la calificación final del estudiante, junto con un comentario de retroalimentación.
 
-<!-- TODO: agregar una imagen de la pantalla donde el docente pone la calificación final -->
+![Docente estableciendo la calificación final]({{site.baseurl}}/assets/user/courses/course_grades/give_final_grade.png)
 
 ## Ver calificaciones como alumno
 
@@ -27,4 +27,6 @@ Ahí se dispone de un listado de las calificaciones obtenidas en los cursos, las
 de curso o por comentario de retroalimentación, y se puede filtrar por estado de la calificación (aprobada o
 desaprobada) o por rango de fechas.
 
-<!-- TODO: agregar fotos de mi perfil (mostrando el botón de Mis Notas), y de la lista de notas-->
+![Botón de Mis notas en el perfil del usuario]({{site.baseurl}}/assets/user/courses/course_grades/my_profile.png)
+
+![Lista de notas obtenidas por el estudiante]({{site.baseurl}}/assets/user/courses/course_grades/course_grades_list.png)

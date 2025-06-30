@@ -6,6 +6,8 @@ nav_order: 1
 
 # Bienvenido a ClassConnect
 
+![Logo]({{site.baseurl}}/assets/logo.png)
+
 ClassConnect es una plataforma de gestión de cursos diseñada para facilitar la enseñanza y el aprendizaje. Permite a los profesores crear y gestionar cursos, asignar tareas, realizar evaluaciones y comunicarse con los estudiantes de manera eficiente. Los estudiantes, por su parte, pueden acceder a los materiales del curso, enviar tareas y participar en discusiones, todo en un entorno intuitivo y fácil de usar.
 
 ## ¿Cómo utilizar ClassConnect?

@@ -17,11 +17,11 @@ funcionan bien y cuáles podrían mejorarse.
 En esta sección, el alumno puede dejar una reseña del curso, la cual consiste en una puntuación de **1 a 5 estrellas**
 y un comentario adicional.
 
-<!-- TODO: agregar una imagen de un alumno dejando una reseña -->
+![Alumno dejando una reseña]({{site.baseurl}}/assets/user/courses/reviews/review_student.png)
 
 ## Visualizar reseñas
 
 Como docente, en esta sección se pueden ver todas las reseñas que han dejado los estudiantes del curso, realizar
 búsquedas por comentario y filtrar por puntuación y rango de fechas.
 
-<!-- TODO: agregar una imagen de la vista del docente de reseñas -->
+![Lista de reseñas]({{site.baseurl}}/assets/user/courses/reviews/reviews_teacher.png)
